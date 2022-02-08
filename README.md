@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: simiaktar527@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have never seen my collage
+- ⚡ Fun fact: Sharks can live for five centuries.
 
