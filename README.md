@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fprogrammer-working-with-php_52683-22998.jpg%3Fw%3D2000&tbnid=375CU_qwlcfzmM&vet=12ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-developer&docid=CYoyG6BBdpTsRM&w=2000&h=2000&q=female%20developer%20img&ved=2ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygDegQIARBQ)]
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Ffemale-javascript-developer-3573234-2997721.gif&tbnid=40uJpHi9O8wonM&vet=10CBEQ1JoKKAJqFwoTCKD9uKX-uoEDFQAAAAAdAAAAABAG..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Ffemale-web-developer&docid=rk6egawSufAkLM&w=787&h=409&itg=1&q=java%20developer%20gif&ved=0CBEQ1JoKKAJqFwoTCKD9uKX-uoEDFQAAAAAdAAAAABAG)]
 <h1 align="center">Hi 👋, I'm Shimee Aktar Laskar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
