@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A)]
 <h1 align="center">Hi 👋, I'm Shimee Aktar Laskar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
