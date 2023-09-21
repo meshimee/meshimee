@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Ffemale-javascript-developer-3573234-2997721.gif&tbnid=40uJpHi9O8wonM&vet=10CBEQ1JoKKAJqFwoTCKD9uKX-uoEDFQAAAAAdAAAAABAG..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Ffemale-web-developer&docid=rk6egawSufAkLM&w=787&h=409&itg=1&q=java%20developer%20gif&ved=0CBEQ1JoKKAJqFwoTCKD9uKX-uoEDFQAAAAAdAAAAABAG)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A)]
 <h1 align="center">Hi 👋, I'm Shimee Aktar Laskar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
