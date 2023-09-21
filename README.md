@@ -1,11 +1,6 @@
-![MasterHead](https://iconscout.com/lottie/female-web-developer-8860218)
-
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fprogrammer-working-with-php_52683-22998.jpg%3Fw%3D2000&tbnid=375CU_qwlcfzmM&vet=12ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-developer&docid=CYoyG6BBdpTsRM&w=2000&h=2000&q=female%20developer%20img&ved=2ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygDegQIARBQ)]
 <h1 align="center">Hi 👋, I'm Shimee Aktar Laskar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=meshimee&label=Profile%20views&color=0e75b6&style=flat" alt="meshimee" />
-</p>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshimee&label=Profile%20views&color=0e75b6&style=flat" alt="meshimee" /> </p>
 
