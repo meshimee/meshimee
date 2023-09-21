@@ -1,6 +1,7 @@
+[![MasterHead](https://iconscout.com/lottie/female-web-developer-8860218)]
 <h1 align="center">Hi 👋, I'm Shimee Aktar Laskar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn5.vectorstock.com%2Fi%2F1000x1000%2F72%2F34%2Fwoman-web-developer-or-programmer-working-in-front-vector-35497234.jpg&tbnid=r0q0n4GJCPaTqM&vet=12ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygUegQIARB8..i&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fwoman-web-developer-or-programmer-working-in-front-vector-35497234&docid=NXM7fmfXTbklYM&w=1000&h=1080&q=female%20developer%20img&ved=2ahUKEwj9xZyW_LqBAxXP7jgGHVP4CIMQMygUegQIARB8")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshimee&label=Profile%20views&color=0e75b6&style=flat" alt="meshimee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shimeeaktar" target="blank"><img src="https://img.shields.io/twitter/follow/shimeeaktar?logo=twitter&style=for-the-badge" alt="shimeeaktar" /></a> </p>
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meshimee&show_icons=true&locale=en" alt="meshimee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meshimee&" alt="meshimee" /></p>
-
